@@ -1,3 +1,4 @@
+![COVID-19 Dashboard (Screenshot)](https://user-images.githubusercontent.com/49908077/126871251-49d56ebb-2647-4652-8e6f-33208fe026d4.jpg)
 # COVID-19 Project
 
 # Tools Used
