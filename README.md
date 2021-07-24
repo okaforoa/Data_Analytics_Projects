@@ -1,1 +1,1 @@
-# A collection of Data Analytics projects
+A collection of Data Analytics projects
