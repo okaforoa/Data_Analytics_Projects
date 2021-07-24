@@ -3,7 +3,6 @@ Case study analyzing Chem Corp's business operations
 ## Tools Used
 * Microsoft Excel
 * Tableau 2021.1
---
 ## Presentation 
 https://public.tableau.com/app/profile/olisamedua.okafor/viz/ChemCorpPresentation_16145274154690/ChemCorpPresentation
 
