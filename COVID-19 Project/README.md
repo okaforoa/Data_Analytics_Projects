@@ -1,7 +1,10 @@
-# Data Analyst Portfolio Project Repository
+# COVID-19 Project
 
-This Repository will hold all of the code and queries from the Portfolio Projects we create.
+# Tools Used
+* SQL Server Management Studio 18
+* Microsoft Excel
+* Tableau Public 2021.2
 
-Please feel free to take these and run with them. Make them your own and find you own insights
-
-I really do hope this is helpful and helps you land that dream job! :D
+---
+# Dashboard
+https://public.tableau.com/app/profile/olisamedua.okafor/viz/COVID-19DashboardAsofJuly222021/COVID-19Dashboard
