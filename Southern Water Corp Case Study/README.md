@@ -1,2 +1,2 @@
 # Southern Water Corp Python Case Study
-Used Python to complete this case study from Springboard.
+Springboard case study using Descriptive and Inferential Statistics performed with Python to predict water pump failure.
