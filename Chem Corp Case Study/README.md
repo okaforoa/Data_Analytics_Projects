@@ -4,6 +4,8 @@ Case study analyzing Chem Corp's business operations
 * Microsoft Excel
 * Tableau 2021.1
 --
+## Presentation 
 https://public.tableau.com/app/profile/olisamedua.okafor/viz/ChemCorpPresentation_16145274154690/ChemCorpPresentation
 
-![ChemCorp Presentation Snapshot](https://user-images.githubusercontent.com/49908077/126873565-18f8bd43-f2b5-4069-8c3d-08142a6c75b0.jpg)
+![ChemCorp Presentation Snapshot](https://user-images.githubusercontent.com/49908077/126873634-81f3ade5-25fb-47ef-9a77-d1c28c4bbad6.jpg)
+
